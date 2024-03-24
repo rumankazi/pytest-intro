@@ -1,2 +1,3 @@
-# pytest-intro
-Learning pytests
+# PyTest Intro
+
+Learning pytest framework
